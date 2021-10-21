@@ -2,15 +2,22 @@
 
 ## Pretrained language models
 
-[lvbert-base-tf](http://nlp.ailab.lv:9090/lvbert/lvbert_tf.tar.gz), [lvbert-base-pytorch](http://nlp.ailab.lv:9090/lvbert/lvbert_pytorch.tar.gz): 12-layer, 768-hidden, 12-heads, 110M parameters
+12-layers, 768-hidden, 12-heads, 110M parameters:
+- [lvbert-base-tf](http://nlp.ailab.lv:9090/lvbert/lvbert_tf.tar.gz) (1.1GB)
+- [lvbert-base-pytorch](http://nlp.ailab.lv:9090/lvbert/lvbert_pytorch.tar.gz) (394MB)
 
 ## Publications
 
-A. Znotins, G. Barzdins. [LVBERT: Transformer-based Model for Latvian Language Understanding](http://ebooks.iospress.nl/volumearticle/55531). Human Language Technologies - The Baltic Perspective. Frontiers in Artificial Intelligence and Applications, vol. 328, IOS Press, 2020
+Znotiņš, A., Bārzdiņš, G. [LVBERT: Transformer-based Model for Latvian Language Understanding](http://ebooks.iospress.nl/volumearticle/55531). Human Language Technologies - The Baltic Perspective. Frontiers in Artificial Intelligence and Applications, vol. 328, IOS Press, 2020
+
+## Related work
+
+- [NLP-PIPE: Latvian NLP Pipeline as a Service](https://github.com/LUMII-AILab/nlp-pipe)
+- [Full Stack of Latvian Language Resources for NLU and NLG](https://github.com/LUMII-AILab/FullStack)
 
 ## Acknowledgements
 
-This research is funded by the Latvian Council of Science, project *Latvian Language Understanding and Generation in Human-Computer Interaction*, project No. lzp-2018/2-0216. 
+This work is supported by the Latvian Council of Science under the grant agreement No. lzp-2018/2-0216 (*Latvian Language Understanding and Generation in Human-Computer Interaction*) and by the State Research Programme under the grant agreement No. VPP-IZM-DH-2020/1-0001 (*Digital Resources for Humanities: Integration and Development*).
 
 ## Licence
 
